@@ -1,0 +1,74 @@
+15 17 11
+17 9 8
+Pork|Chicken|Beef|Fish|Lamb|Duck|Cockles|Egg|Potato|Mushroom|Milk|Green_peas|Bread|Tomato|Lemon
+Chocolate|Cinnamon|Bananas|Carrot|Strawberry|Candied_fruit|Breadcrumbs|Lard|Wheat|Flour|Egg|Pecan|Raisins|Sugar|Milk|Butter|Cream
+Alcohol|Coffee|Tea|Wine|Apple|Oil_of_bergamot|Mint|Lemon_peel|Milk|Assam|Ceylon
+
+Fish & Chips|Fish
+The irresistible combination of a hunk of battered cod resting atop a mound of steaming hot chips is the quintessential British comfort food.
+Sunday Roast beef|Beef|Egg|Green peas|Milk
+Beef roast is served with a Yorkshire pudding, ruffled thyme-roasted potatoes, buttered savoy cabbage, leeks, peas & roasted root vegetables.
+Sunday Roast pork|Pork|Egg|Green peas|Milk
+Pork roast is served with a Yorkshire pudding, ruffled thyme-roasted potatoes, buttered savoy cabbage, leeks, peas & roasted root vegetables.
+Sunday Roast chicken|Chicken|Egg|Green peas|Milk
+Chicken roast is served with a Yorkshire pudding, ruffled thyme-roasted potatoes, buttered savoy cabbage, leeks, peas & roasted root vegetables.
+Sunday Roast lamb|Lamb|Egg|Green peas|Milk
+Lamb roast is served with a Yorkshire pudding, ruffled thyme-roasted potatoes, buttered savoy cabbage, leeks, peas & roasted root vegetables.
+Beef Pie and Mash|Beef|Egg|Potato
+A British beef steak & craft ale pie.
+Pork Pie and Mash|Pork|Egg|Potato
+A British Pork steak, dry cured bacon & red wine pie.
+Chicken Pie and Mash|Chicken|Egg|Potato
+A tofu chicken pie with leek, smoked garlic & white wine.
+Lamb Pie and Mash|Lamb|Egg|Potato
+A British lamb steak, craft ale & kidney pie.
+Beef Bangers and Mash|Beef|Egg|Potato|Pork
+Traditional old English recipe, beef sausage, fried mash potatoes, cabbage, peas and onions.
+Pork Bangers and Mash|Pork|Egg|Potato
+Traditional old English recipe, pork sausage, fried mash potatoes, cabbage, peas and onions.
+Chicken Bangers and Mash|Chicken|Egg|Potato|Pork
+Traditional old English recipe, chicken sausage, fried mash potatoes, cabbage, peas and onions.
+Lamb Bangers and Mash|Lamb|Egg|Potato|Pork
+Traditional old English recipe, lamb sausage, fried mash potatoes, cabbage,peas and onions.
+Fried Cockles|Cockles|Lemon
+Cockles are small, edible bivalves. Traditionally sold with winkles and whelks, cockles have been a popular British seaside snack for many years.
+Full English breakfast|Pork|Egg|Mushroom|Potato|Tomato|Bread
+The full English breakfast often consists of bacon, fried egg, sausage, mushrooms, baked beans, toast, grilled tomatoes, and accompanied with tea or coffee.
+Beef wellington|Beef|Egg|Mushroom
+Beef wellington Beef Wellington is a steak dish of English origin, made out of fillet steak coated with pate and duxelles wrapped in puff pastry, then baked.
+Roast duck|Duck
+A whole roast duck makes a great centerpiece for a dinner party or special family lunch. With its rich, complex, gamey flavor, it is much more flavorful than other poultry and can stand up to strong.
+Carrot cake|Carrot|Egg|Flour|Cinnamon|Pecan|Raisins
+Carrot cake is cake that contains carrots mixed into the batter. Most modern carrot cake recipes have a white cream cheese frosting. Sometimes nuts such as walnuts are added into the cake batter.
+Strawberry shortcake|Strawberry|Flour|Sugar|Butter|Milk|Cream
+In the UK, the term shortcake refers to a biscuit similar to shortbread. They are generally less dense and more crunchy and dry than shortbread.
+Swiss roll|Flour|Sugar|Butter|Jam|Buttercream
+Swiss roll is a type of rolled sponge cake filled with whipped cream, jam, or icing.
+Scone|Wheat|Barley|Egg|Cream
+A scone is a baked good, usually made of either wheat or oatmeal with baking powder as a leavening agent, and baked on sheet pans. The scone is a basic component of the cream tea.
+Fruitcake|Candied fruit|Nuts|Sugar|Flour
+Fruitcake is a cake made with candied or dried fruit, nuts, and spices, and optionally soaked in spirits. In the United Kingdom, certain rich versions may be iced and decorated.
+Tart|Flour|Sugar|Milk|Butter|Egg|Lard
+Tarts are typically freestanding with a firm pastry base consisting of dough, itself made of flour, thick filling, and perpendicular sides while pies may have softer pastry, looser filling, and sloped sides, necessitating service from the pie plate.
+Sponge cake|Flour|Sugar|Egg
+Sponge cake is a light cake made with egg whites, flour and sugar, sometimes leavened with baking powder.
+Christmas pudding|Candied fruit|Sugar|Breadcrumbs|Flour|Egg
+Traditional British Christmas Pudding is a make-ahead, steamed, fruit filled dessert which is set alight when served. It is a beautiful culmination of many British Christmas dinners.
+Banoffee pie|Bananas|Chocolate|Cream|Milk|Biscuits|Butter|Sugar
+Banoffee pie is an English dessert pie made from bananas, cream and a thick caramel sauce, combined either on a buttery biscuit base. Some versions of the recipe also include chocolate or coffee.
+Mulled wine|Alcohol|Wine|Spice|Fruit
+Mulled wine, also known as spiced wine, is a beverage usually made with red wine along with various mulling spices and sometimes raisins. It is served hot or warm and is alcoholic, although there are non-alcoholic versions of it.
+Cider|Alcohol|Apple|Sugar|Yeast
+Cider is an alcoholic beverage made from the fermented juice of apples. Cider is widely available in the United Kingdom.
+Flat While|Coffee|Milk foam|Milk
+A flat white is a coffee drink consisting of espresso with micro foam. It is comparable to a latte, but smaller in volume and with less micro foam, therefore having a higher proportion of coffee to milk, and milk.
+English Breakfast Tea|Tea|Assam|Ceylon|Kenya|Milk|Sugar
+English breakfast tea is a black tea blend usually described as full-bodied, robust, rich and blended to go well with milk and sugar, in a style traditionally associated with a hearty English breakfast.
+Black Tea|Tea|Assam|Sugar
+Black tea is generally stronger in flavour than other teas. All five types are made from leaves of the shrub Camellia sinensis.
+Earl Grey Tea|Tea|Oil of bergamot
+Earl Grey tea is a tea blend which has been flavoured with the addition of oil of bergamot. The rind's fragrant oil is added to black tea to give Earl Grey its unique taste.
+Lady Grey Tea|Tea|Oil of bergamot|Lemon peel|Orange peel
+Lady Grey tea is a trademarked variation on Earl Grey tea. Like Earl Grey, it is a black tea flavoured with bergamot essential oil.
+Herbal tea|Tea|Mint|Holy basil|Basil|Lemon grass|Coriander
+Herbal teas also known as herbal infusions and less commonly called tisanes are beverages made from the infusion or decoction of herbs, spices, or other plant material in hot water.
